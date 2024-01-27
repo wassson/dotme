@@ -10,7 +10,7 @@ export default function Home() {
         <div className="col-start-3 col-span-3 mt-8">
           <div className="mb-6 pb-6">
             <div className="mb-3">
-              <h2 className="text-xl">Hey! I'm Austin</h2>
+              <h2 className="text-xl">Hey! I&apos;m Austin</h2>
             </div>
             <p className="font-md text-neutral-300 text-pretty">
               I am a software engineer obsessed with the fine details of <span className="px-1.5 py-0.5 text-sm text-neutral-300 bg-black rounded">code</span> and <span className="px-1.5 py-0.5 text-sm text-neutral-300 bg-black rounded">design</span>.
